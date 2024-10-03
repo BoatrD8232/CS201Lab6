@@ -1,0 +1,180 @@
+Genre: International Movies          Count: 2543
+India               865
+France              207
+United Kingdom      170
+United States       166
+Spain               140
+Egypt               99
+Germany             94
+Nigeria             88
+Genre: Dramas                        Count: 2317
+United States       835
+India               663
+United Kingdom      197
+France              167
+Canada              82
+Germany             80
+Spain               76
+Nigeria             64
+Genre: Comedies                      Count: 1580
+United States       680
+India               324
+Canada              94
+United Kingdom      92
+Turkey              58
+Egypt               57
+France              51
+Spain               47
+Genre: International TV Shows        Count: 1128
+South Korea         152
+Japan               151
+United Kingdom      128
+United States       74
+Taiwan              70
+India               66
+Spain               54
+France              43
+Genre: Action & Adventure            Count: 817
+United States       404
+India               138
+United Kingdom      85
+Hong Kong           66
+China               63
+Japan               57
+Canada              44
+France              38
+Genre: Documentaries                 Count: 793
+United States       512
+United Kingdom      129
+France              44
+Canada              43
+India               28
+Germany             22
+Spain               22
+Mexico              19
+Genre: Independent Movies            Count: 745
+United States       390
+India               168
+United Kingdom      74
+France              73
+Canada              44
+Germany             31
+Mexico              23
+Spain               20
+Genre: TV Dramas                     Count: 663
+United States       232
+South Korea         38
+United Kingdom      36
+Canada              32
+Taiwan              29
+India               28
+France              27
+Turkey              25
+Genre: Romantic Movies               Count: 588
+United States       226
+India               120
+United Kingdom      39
+Philippines         35
+Indonesia           27
+Canada              25
+Turkey              24
+France              22
+Genre: Thrillers                     Count: 549
+United States       292
+India               92
+United Kingdom      62
+Canada              49
+France              44
+Spain               38
+Germany             29
+Nigeria             16
+Genre: Children & Family Movies      Count: 535
+United States       390
+Canada              81
+United Kingdom      46
+India               27
+France              24
+Australia           20
+Japan               20
+Germany             18
+Genre: TV Comedies                   Count: 501
+United States       258
+United Kingdom      44
+Taiwan              36
+Canada              30
+India               26
+France              24
+South Korea         19
+Australia           17
+Genre: Crime TV Shows                Count: 421
+United States       146
+United Kingdom      49
+Mexico              32
+Spain               27
+South Korea         24
+France              23
+Colombia            18
+Germany             16
+Genre: Kids' TV                      Count: 370
+United States       215
+Canada              61
+United Kingdom      44
+France              44
+Japan               29
+Australia           22
+South Korea         16
+India               13
+Genre: Horror Movies                 Count: 339
+United States       200
+Canada              37
+India               36
+United Kingdom      29
+Thailand            15
+France              11
+Spain               10
+Indonesia           10
+Genre: Docuseries                    Count: 330
+United States       193
+United Kingdom      90
+Australia           11
+Canada              11
+India               10
+Germany             9
+Spain               9
+France              7
+Genre: Music & Musicals              Count: 328
+United States       147
+India               97
+United Kingdom      37
+Canada              15
+Germany             9
+France              9
+Japan               7
+Spain               7
+Genre: Stand-Up Comedy               Count: 311
+United States       217
+United Kingdom      22
+Mexico              19
+Brazil              9
+Argentina           8
+India               7
+Germany             6
+France              6
+Genre: Romantic TV Shows             Count: 299
+South Korea         77
+Taiwan              48
+United States       44
+China               22
+Japan               21
+India               12
+United Kingdom      11
+Thailand            10
+Genre: Sci-Fi & Fantasy              Count: 241
+United States       180
+United Kingdom      36
+Canada              29
+Germany             14
+China               14
+India               13
+France              11
+Spain               11
