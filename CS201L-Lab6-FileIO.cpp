@@ -27,14 +27,7 @@ int main()
     for (int i = 0; i < 20; i++) {
         sortByCountry(gCount.at(i).countries);
     }
-    /*for (int i = 0; i < 20; ++i) {
-        cout << gCount.at(i).genre << ": " << gCount.at(i).count << endl;
-        sortByCountry(gCount.at(i).countries);
-        for (int j = 0; j < gCount.at(i).countries.size(); ++j) {
-            cout << gCount.at(i).countries.at(j).country << " | " << gCount.at(i).countries.at(j).count << endl;
-        }
-        cout << endl;
-    }*/
+
  
 
     printReport(outFile1, gCount, country);
