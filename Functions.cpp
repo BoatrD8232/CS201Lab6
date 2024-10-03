@@ -62,15 +62,7 @@ void loadVector(ifstream& in, ofstream& err, vector<showInfo>& shows,
     while (getline(in, line)) {
         // Parse the line into fields
         vector<string> tokenList = parseCSVLine(line);
-        /*string country;
-        string type;
-        string title;
-        int releaseYear;
-        string rating;
-        string duration;
-        vector<string> genres;
-        string description;*/
-        //0show_id,1type,2title,3director,4country,5date_added,6release_year,7rating,8duration,9listed_in,10description
+
         showInfo show;
         try {
             if (tokenList.size() != 11) {
